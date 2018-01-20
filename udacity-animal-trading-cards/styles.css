@@ -1,0 +1,40 @@
+.fact {
+  font-style: italic;
+  margin: 0;
+}
+
+.label {
+  font-weight: 800;
+}
+
+.list {
+  padding: 0;
+  list-style-type: none;
+}
+
+.body {
+  font-family: "Lucida Fax", serif;
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  -webkit-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
+  background-color: #E8EAF6;
+}
+
+.picture {
+  padding: 5px 0;
+}
+
+.info {
+  margin: 0;
+  padding: 10px;
+  font-size: 0.820rem;
+  border: 1px solid #ccc;
+}
+
+.title {
+  margin: 0;
+  font-size: 1.875rem;
+}
